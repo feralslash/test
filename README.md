@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://github.com/feralslash/test/blob/main/image/243-2432879_olympic-wallpapers-wfu72.jpg)
 
 <!-- Add your details -->
 
